@@ -11,3 +11,5 @@ A numeric data sets will import through unit test. As a result, the data will us
 
 It provides a unique processing API for Machine Learning solutions. Here I used K-mean algorithm to make cluster of data and detect anomaly. Software testing with Unit test is a process, where individual components of a software are tested. The purpose is to validate that each unit of the software performs as designed. A unit is the smallest testable part of any software. It usually has one or a few inputs and usually a single output. I used different unit test to check the accuracy of my project.
 
+Details documataion with a video presentation here
+https://github.com/pretomksaha/Implement-Anomaly-Detection-with-LearningApi-K-Mean-Algorithm-/tree/main/Documentation
