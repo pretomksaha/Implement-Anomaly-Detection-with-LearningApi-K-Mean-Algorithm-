@@ -1,0 +1,28 @@
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Visual work\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\AnomalyDetectionK.deps.json
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Visual work\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\AnomalyDetectionK.dll
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Visual work\Project_2018\AnomalyDetectionK\AnomalyDetectionK\obj\Debug\netcoreapp2.1\AnomalyDetectionK.csproj.CoreCompileInputs.cache
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Visual work\Project_2018\AnomalyDetectionK\AnomalyDetectionK\obj\Debug\netcoreapp2.1\AnomalyDetectionK.AssemblyInfoInputs.cache
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Visual work\Project_2018\AnomalyDetectionK\AnomalyDetectionK\obj\Debug\netcoreapp2.1\AnomalyDetectionK.AssemblyInfo.cs
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Visual work\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\AnomalyDetectionK.pdb
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Visual work\Project_2018\AnomalyDetectionK\AnomalyDetectionK\obj\Debug\netcoreapp2.1\AnomalyDetectionK.dll
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Visual work\Project_2018\AnomalyDetectionK\AnomalyDetectionK\obj\Debug\netcoreapp2.1\AnomalyDetectionK.pdb
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Visual work\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\AnomalyDetectionK.runtimeconfig.json
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Visual work\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\AnomalyDetectionK.runtimeconfig.dev.json
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Visual work\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Visual work\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Visual work\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Visual work\Project_2018\AnomalyDetectionK\AnomalyDetectionK\obj\Debug\netcoreapp2.1\AnomalyDetectionK.csprojAssemblyReference.cache
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\AnomalyDetectionK.deps.json
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\AnomalyDetectionK.runtimeconfig.json
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\AnomalyDetectionK.runtimeconfig.dev.json
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\AnomalyDetectionK.dll
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Project_2018\AnomalyDetectionK\AnomalyDetectionK\bin\Debug\netcoreapp2.1\AnomalyDetectionK.pdb
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Project_2018\AnomalyDetectionK\AnomalyDetectionK\obj\Debug\netcoreapp2.1\AnomalyDetectionK.csprojAssemblyReference.cache
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Project_2018\AnomalyDetectionK\AnomalyDetectionK\obj\Debug\netcoreapp2.1\AnomalyDetectionK.csproj.CoreCompileInputs.cache
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Project_2018\AnomalyDetectionK\AnomalyDetectionK\obj\Debug\netcoreapp2.1\AnomalyDetectionK.AssemblyInfoInputs.cache
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Project_2018\AnomalyDetectionK\AnomalyDetectionK\obj\Debug\netcoreapp2.1\AnomalyDetectionK.AssemblyInfo.cs
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Project_2018\AnomalyDetectionK\AnomalyDetectionK\obj\Debug\netcoreapp2.1\AnomalyDetectionK.dll
+C:\Users\User-Hp\source\repos\se-dystsys-2018-2019-softwareengineering\Project_2018\AnomalyDetectionK\AnomalyDetectionK\obj\Debug\netcoreapp2.1\AnomalyDetectionK.pdb
