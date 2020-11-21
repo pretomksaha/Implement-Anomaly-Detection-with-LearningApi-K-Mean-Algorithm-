@@ -1,0 +1,7 @@
+﻿{
+	"Features":[
+					{"Id":1,"Name":"MeasuredSpeed","Index":0,"Type":1,"Values":null,"Normalization":1,"DefaultMissingValue":0}
+				      ],
+	"NumOfFeatures":1,
+  "LabelIndex": -1
+}
